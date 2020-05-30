@@ -1,0 +1,13 @@
+set a 1
+set b 2
+set c 3
+print a 
+print b
+print c
+print a
+print b
+print c
+print a 
+print b
+print c
+quit

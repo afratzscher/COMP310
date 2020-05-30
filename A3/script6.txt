@@ -1,0 +1,14 @@
+set l 12
+set m 13
+set n 14
+set o 15
+print l
+print m
+print n
+print o
+print l
+print m
+print n
+print o
+print l 
+quit

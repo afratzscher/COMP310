@@ -1,0 +1,16 @@
+set x 10
+set y 20
+set z 30
+print x
+print y
+print z
+print x
+print y 
+print z
+print x
+print y
+print z
+print x
+print y
+print z
+quit

@@ -1,0 +1,17 @@
+set a 1
+set b 2
+set c 3
+set d 4
+set e 5
+set g 7
+set q 9
+set p 12
+set k 4
+set l 2
+print a
+print b
+print c
+print d
+print e
+print g
+print q
